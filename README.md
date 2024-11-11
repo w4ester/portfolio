@@ -49,7 +49,7 @@ git init
 git add .
 git commit -m "Initial portfolio commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/portfolio.git
+git remote add origin https://github.com/w4ester/portfolio.git
 git push -u origin main
 ```
 
@@ -135,7 +135,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-Your portfolio should be available at: `https://yourusername.github.io/portfolio/`
+Your portfolio should be available at: `https://w4ester.github.io/portfolio/`
 
 ## Customization Options
 1. Update personal information in `App.tsx`
