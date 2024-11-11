@@ -2,7 +2,7 @@
 
 # Portfolio Project Summary
 
-## What We've Built
+## Built
 1. **React Portfolio with Vite**
    - Modern React application using TypeScript
    - Built with Vite for fast development
